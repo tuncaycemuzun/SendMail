@@ -1,0 +1,12 @@
+c:\users\misstajyer01\documents\visual studio 2010\Projects\MailGonderme\MailGonderme\bin\MailGonderme.dll
+c:\users\misstajyer01\documents\visual studio 2010\Projects\MailGonderme\MailGonderme\bin\MailGonderme.pdb
+c:\users\misstajyer01\documents\visual studio 2010\Projects\MailGonderme\MailGonderme\obj\Debug\MailGonderme.dll
+c:\users\misstajyer01\documents\visual studio 2010\Projects\MailGonderme\MailGonderme\obj\Debug\MailGonderme.pdb
+C:\Users\misstajyer01\Documents\Visual Studio 2010\Projects\MailGonderme\MailGonderme\obj\Debug\MailGonderme.csprojResolveAssemblyReference.cache
+B:\Dosyalar\Projeler\Eski Projelerim\MailGonderme\MailGonderme\bin\MailGonderme.dll.config
+B:\Dosyalar\Projeler\Eski Projelerim\MailGonderme\MailGonderme\bin\MailGonderme.dll
+B:\Dosyalar\Projeler\Eski Projelerim\MailGonderme\MailGonderme\bin\MailGonderme.pdb
+B:\Dosyalar\Projeler\Eski Projelerim\MailGonderme\MailGonderme\obj\Debug\MailGonderme.csprojAssemblyReference.cache
+B:\Dosyalar\Projeler\Eski Projelerim\MailGonderme\MailGonderme\obj\Debug\MailGonderme.csproj.CoreCompileInputs.cache
+B:\Dosyalar\Projeler\Eski Projelerim\MailGonderme\MailGonderme\obj\Debug\MailGonderme.dll
+B:\Dosyalar\Projeler\Eski Projelerim\MailGonderme\MailGonderme\obj\Debug\MailGonderme.pdb
